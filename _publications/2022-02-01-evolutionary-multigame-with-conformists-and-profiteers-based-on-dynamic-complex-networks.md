@@ -2,7 +2,6 @@
 title: "Evolutionary multigame with conformists and profiteers based on dynamic complex networks"
 collection: publications
 category: manuscripts
-permalink: https://pubs.aip.org/aip/cha/article/32/2/023117/2835679
 date: 2022-02-01
 venue: 'Chaos: An Interdisciplinary Journal of Nonlinear Science'
 paperurl: 'https://pubs.aip.org/aip/cha/article/32/2/023117/2835679'
