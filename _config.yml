@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "PhD Student"
+title                    : "Zzzzzzz"
 title_separator          : "-"
 name                     : &name "Ziyan Zeng"
 description              : &description "PhD student of Complex Systems and Networks in IMT School for Advanced Studies Lucca, Italy. "   # Update this with a general description of your site, this is the default if not overridden by a page
