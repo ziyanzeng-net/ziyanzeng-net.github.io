@@ -2,7 +2,6 @@
 title: "Inhibition and activation of interactions in networked weak prisoner’s dilemma"
 collection: publications
 category: manuscripts
-permalink: https://pubs.aip.org/aip/cha/article-abstract/33/6/063124/2894480/Inhibition-and-activation-of-interactions-in?redirectedFrom=fulltext
 date: 2023-06-01
 venue: 'Chaos: An Interdisciplinary Journal of Nonlinear Science'
 paperurl: 'https://pubs.aip.org/aip/cha/article-abstract/33/6/063124/2894480/Inhibition-and-activation-of-interactions-in?redirectedFrom=fulltext'
