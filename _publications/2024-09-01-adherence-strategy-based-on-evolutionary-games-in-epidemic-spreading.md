@@ -1,7 +1,7 @@
 ---
 title: "Adherence strategy based on evolutionary games in epidemic spreading"
 collection: publications
-category: manuscript
+category: manuscripts
 date: 2024-09-01
 venue: 'Chaos, Solitons & Fractals'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0960077924008415'
