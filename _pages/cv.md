@@ -11,35 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Complex Systems and Networks, System Science, IMT Schools for Advanced Studies, Lucca, 2025-2028 (expected)
+* M.Eng. in Computer Science and Technology, College of Artificial Intelligence, Southwest University, China, 2022-2025
+* B.Eng. in Data Science and Big Data Technology, College of Artificial Intelligence, Southwest University, China, 2019-2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language: Chinese (Native), English (Fluent)
+* Programming
+  * Commonly Used: Python (NetworkX, numpy, scipy, matplotlib, etc.), MatLab, Mathematica, LateX
+  * Studied as Courses: C, C++, Java, R
+* Field: Network Science, Game Theory, Mathematical Epidemiology, Stochastic Process
 
 Publications
 ======
@@ -59,6 +44,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* Peer Reviewer for Scientific Reports, Humanities and Social Sciences Communications, Applied Mathematical Modelling, PloS Computational Biology, International Journal of Mathematics for Industry
