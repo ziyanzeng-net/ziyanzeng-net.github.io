@@ -2,7 +2,6 @@
 title: "Evolutionary dynamics with self-interaction learning in networked systems"
 collection: publications
 category: manuscripts
-permalink: https://ieeexplore.ieee.org/abstract/document/11049886
 date: 2025-06-24
 venue: 'IEEE Transactions on Network Science and Engineering'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/11049886'
