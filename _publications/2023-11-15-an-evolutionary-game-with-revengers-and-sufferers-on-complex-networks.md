@@ -2,7 +2,6 @@
 title: "An evolutionary game with revengers and sufferers on complex networks"
 collection: publications
 category: manuscripts
-permalink: https://www.sciencedirect.com/science/article/pii/S0096300323003375
 date: 2023-11-15
 venue: 'Applied Mathematics and Computation'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0096300323003375'
