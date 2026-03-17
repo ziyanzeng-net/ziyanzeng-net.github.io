@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Ziyan Zeng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Student in Complex Systems and Networks"
   location         : "Lucca, Italy"
-  employer         : "IMT School for Advanced Studies Lucca"
+  employer         : "IMT Lucca"
   uri              : # URL
   email            : "ziyan.zeng.work@gmail.com" 
 
