@@ -2,7 +2,6 @@
 title: "Temporal network modeling with online and hidden vertices based on the birth and death process"
 collection: publications
 category: manuscripts
-permalink: https://www.sciencedirect.com/science/article/pii/S0307904X23002433
 date: 2023-10-01
 venue: 'Applied Mathematical Modelling'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0307904X23002433'
