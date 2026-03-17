@@ -2,7 +2,6 @@
 title: "Complex network modeling with power-law activating patterns and its evolutionary dynamics"
 collection: publications
 category: manuscripts
-permalink: /publication/power-law-activating-patterns/
 date: 2025-01-17
 venue: "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
 paperurl: "https://ieeexplore.ieee.org/abstract/document/10844908"
