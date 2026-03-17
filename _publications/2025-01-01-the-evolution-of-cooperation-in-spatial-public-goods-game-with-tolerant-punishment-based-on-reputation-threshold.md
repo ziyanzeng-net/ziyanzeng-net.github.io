@@ -2,7 +2,6 @@
 title: "The evolution of cooperation in spatial public goods game with tolerant punishment based on reputation threshold"
 collection: publications
 category: manuscripts
-permalink: https://pubs.aip.org/aip/cha/article-abstract/35/1/013104/3329221/The-evolution-of-cooperation-in-spatial-public?redirectedFrom=fulltext
 date: 2025-01-01
 venue: 'Chaos: An Interdisciplinary Journal of Nonlinear Science'
 paperurl: 'https://pubs.aip.org/aip/cha/article-abstract/35/1/013104/3329221/The-evolution-of-cooperation-in-spatial-public?redirectedFrom=fulltext'
