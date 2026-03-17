@@ -2,7 +2,6 @@
 title: "Protection degree and migration in the stochastic SIRS model: A queueing system perspective"
 collection: publications
 category: manuscripts
-permalink: https://ieeexplore.ieee.org/abstract/document/9580755
 date: 2021-10-19
 venue: 'IEEE Transactions on Circuits and Systems I: Regular Papers'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9580755'
